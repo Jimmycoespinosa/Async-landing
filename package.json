@@ -1,0 +1,23 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "Proyecto curso asincronismo JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimmycoespinosa/async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jimmycoespinosa/async-landing/issues"
+  },
+  "homepage": "https://github.com/Jimmycoespinosa/async-landing#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
