@@ -5,6 +5,7 @@
 // Requiere la instalación del componente gh-pages (Ayuda con el despliegue de la app final en git).
 // Comando: npm install gh-pages --save-dev
 // Cambios en *.json:  Agrega script "deploy".
+// Comando de despliegue: npm run deploy
 
 const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCRayEAEods_IjRmsYObAtTw&part=snippet%2Cid&order=date&maxResults=9';
 
